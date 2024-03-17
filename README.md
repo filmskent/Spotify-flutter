@@ -21,4 +21,4 @@ pub get
 flutter run
 
 ## Noted this app need to reload token every 1 hour since token valid only 1 hour
-after you get a token place it in "lib/repository/albumRepository" in token variable
+after you get a token place it in "lib/repository/album_repository.dart" in token variable
