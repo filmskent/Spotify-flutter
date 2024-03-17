@@ -20,4 +20,5 @@ samples, guidance on mobile development, and a full API reference.
 pub get
 flutter run
 
-##noted this app need to reload token every 1 hour since token valid only 1 hour
+## Noted this app need to reload token every 1 hour since token valid only 1 hour
+after you get a token place it in "lib/repository/albumRepository" in token variable
